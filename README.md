@@ -7,8 +7,13 @@ At the end, you get to see your final score and a phrase depending on your score
 Also there's a button available below it to retake the quiz if user wants.
 There's a Quit button provided in the upper right corner of the app incase user wants to close hte app.
 
+Snapshots of the Quiz App-
+first_app/Screenshots/homeScreen.png
+first_app/Screenshots/finalScreen.png
+
 So, let's start with what all I have learnt-
-1) Dart basics and it's architcture
+1) Setting up Flutter and Dart. Also, Setting up AVD(Android Virtual Device)
+2) Dart basics and it's architcture
     * Datatype, loops, if-else, type infer and some programming basics
     * Writing basic functions and one-line functions in dart.
     * Writing classes (private, constructors, named arguments, getter methods)
