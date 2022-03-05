@@ -5,7 +5,7 @@ Basically it's a *Quiz app* with only 5 GK questions (Even I don't know answers 
 Each question has a 4 choices and is rewarded with 10 points if answered correctly. 
 At the end, you get to see your final score and a phrase depending on your score. 
 Also there's a button available below it to retake the quiz if user wants.
-There a Quit button provided in the upper right corner of the app incase user wants to close hte app.
+There's a Quit button provided in the upper right corner of the app incase user wants to close hte app.
 
 So, let's start with what all I have learnt-
 1) Dart basics and it's architcture
@@ -28,7 +28,7 @@ So, let's start with what all I have learnt-
     * RaisedButton
     * AppBar
     * Divider
-5) Also did some research on colour palletes and designing UI of te application, found a app named Coolors which is pretty amazing for deciding colour palletes.
+5) Also did some research on colour palletes and designing UI of the application, found a app named Coolors which is pretty amazing for deciding colour palletes.
 
 Looking forward to add more questions and UI to the app with more Widgets and options.
 Also, a starting screen with main menu and a customized app icon.
