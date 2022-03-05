@@ -1,16 +1,37 @@
 # first_app
+Well this is the first app I have ever made with Flutter.
 
-A new Flutter project.
+Basically it's a *Quiz app* with only 5 GK questions (Even I don't know answers to those questions. LOL). 
+Each question has a 4 choices and is rewarded with 10 points if answered correctly. 
+At the end, you get to see your final score and a phrase depending on your score. 
+Also there's a button available below it to retake the quiz if user wants.
+There's a Quit button provided in the upper right corner of the app incase user wants to close hte app.
 
-## Getting Started
+So, let's start with what all I have learnt-
+1) Dart basics and it's architcture
+    * Datatype, loops, if-else, type infer and some programming basics
+    * Writing basic functions and one-line functions in dart.
+    * Writing classes (private, constructors, named arguments, getter methods)
+    * Learnt about Lists and Maps in Dart
+    * Differnece between final, const & static
+    * Anonymous functions
+2) State of the app
+    * Stateless and Stateful Widgeets
+    * Usage of setState()
+3) Creating custom Widgets
+4) Learnt various widgets and their propertis like
+    * Scaffold
+    * Container
+    * Column
+    * Text
+    * Row
+    * RaisedButton
+    * AppBar
+    * Divider
+5) Also did some research on colour palletes and designing UI of the application, found a app named Coolors which is pretty amazing for deciding colour palletes.
 
-This project is a starting point for a Flutter application.
+Looking forward to add more questions and UI to the app with more Widgets and options.
+Also, a starting screen with main menu and a customized app icon.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
